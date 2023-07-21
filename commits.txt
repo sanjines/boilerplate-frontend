@@ -1,0 +1,5 @@
+a217b1c Creacion de la carpeta favicons, para incrustar a la pestaña del sitio web.
+ad9cffb Creacion de las carpetas boxi-fonts y css/boxicons.min.css para el trabajo de iconos de forma local.
+e770551 Creacion de la carpeta public y sub-carpeta fonts/exo para el trabajo con fuentes de forma local.
+c96ad67 Creacion de la carpeta views y sub carpetas para el trabajo con pug
+db29478 Creacion de las carpetas scss y carpetas internas, necesarias para trabajar con scss
